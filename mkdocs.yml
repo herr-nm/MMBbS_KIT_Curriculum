@@ -1,0 +1,25 @@
+site_name: KIT-Curriculum
+
+theme:
+  name: material
+  language: de
+  font: false
+  favicon: bilder/favicon.png
+  logo: bilder/logo.png
+
+markdown_extensions:
+- admonition
+- pymdownx.details
+- pymdownx.superfences
+
+extra_css:
+    - 'extra.css'
+
+use_directory_urls: false
+
+repo_url: https://github.com/herr-nm/KIT-Curriculum
+
+nav:
+    - Übersicht: index.md
+    - LS12.1: KDM-LF12_LS12.1.md
+    - LS12.2: KDM-LF12_LS12.2.md
