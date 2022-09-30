@@ -63,8 +63,7 @@ Der Kunde "Fitness 365 GmbH" hat sich für zwei Schritte entschieden. Einerseits
 ### Leistungsnachweise
 
 - Klassenarbeit KA|1 (Block 3)
-- Test T|1 (Block 2)
-- Test T|2 (Block 3)
+- Test T|3 (Block 3)
 - Mitarbeit (kontinuierlich)
 
 ### Mögliche Verknüpfungen zu anderen Lernfeldern / Fächern

@@ -67,7 +67,6 @@ Für Ihren ersten Auftrag in der neuen Position setzen Sie sich genauer mit der 
 
 - Klassenarbeit KA|1 (Block 3)
 - Test T|1 (Block 2)
-- Test T|2 (Block 3)
 - Mitarbeit (kontinuierlich)
 
 ### Mögliche Verknüpfungen zu anderen Lernfeldern / Fächern

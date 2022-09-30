@@ -10,9 +10,7 @@
 
 **"Die Schülerinnen und Schüler verfügen über die Kompetenz, im Team Geschäftsmodell und Geschäftsprozesse des Unternehmens zu analysieren und Vorschläge für eine marktgerechte digitale Weiterentwicklung zu erarbeiten."**
 
-"Die Schülerinnen und Schüler planen auftragsbezogen die Reorganisation bestehender Prozesse, die Ausgestaltung neuer Prozesse sowie die digitale Weiterentwicklung des  Geschäftsmodells. Dazu visualisieren sie den Ist-Zustand und erfassen Änderungs- und Optimierungsbedarf, unter besonderer Beachtung der Daten. Sie nehmen Referenzprozesse sowie Beispiele für digitale Geschäftsmodelle zur Hilfe. Sie richten ihre Lösung konsequent am Nutzen der internen und externen Kunden aus und beachten Datenhoheit sowie Schutzrechte. [...] 
-
-Die Schülerinnen und Schüler reflektieren ihr Vorgehen und die Zusammenarbeit im Team sowie das erreichte Ergebnis aus verschiedenen Perspektiven. Sie beurteilen die strategische Position des Unternehmens auf dem Markt und prüfen die  Notwendigkeit zur permanenten Anpassung der Prozesse und der Weiterentwicklung des Unternehmens."
+"Die Schülerinnen und Schüler planen auftragsbezogen die Reorganisation bestehender Prozesse, die Ausgestaltung neuer Prozesse sowie die digitale Weiterentwicklung des  Geschäftsmodells. Dazu visualisieren sie den Ist-Zustand und erfassen Änderungs- und Optimierungsbedarf, unter besonderer Beachtung der Daten. Sie nehmen Referenzprozesse sowie Beispiele für digitale Geschäftsmodelle zur Hilfe. Sie richten ihre Lösung konsequent am Nutzen der internen und externen Kunden aus und beachten Datenhoheit sowie Schutzrechte."
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
@@ -61,9 +59,7 @@ Der Kunde "Fitness 365 GmbH" hat seine Plattform erfolgreich in das Unternehmen 
 
 ### Leistungsnachweise
 
-- Klassenarbeit KA|1 (Block 3)
-- Test T|1 (Block 2)
-- Test T|2 (Block 3)
+- Test T|4 (Block 4)
 - Mitarbeit (kontinuierlich)
 
 ### Mögliche Verknüpfungen zu anderen Lernfeldern / Fächern

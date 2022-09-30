@@ -38,7 +38,7 @@ Der Kunde "Fitness 365 GmbH" ist überzeugt, sein Unternehmen weiterzuentwickeln
 | Planen / Entscheiden | Die SuS erarbeiten sich die SWOT-Analyse.<br>Die SuS erarbeiten sich die Branchenstrukturanalyse nach Porter. | SWOT-Analyse, Branchenstrukturanalyse (Porters five) | Erst in Einzelarbeit mithilfe des LinkedIn-Learning-Kurses bzw. ergänzendem Informationsmaterial und anhand von Beispielen aus der IT-Branche, zwischenzeitlich oder am Ende Abstimmung der Erkenntnisse in Kleingruppen. Es wird innerhalb der Kleingruppe angeregt, arbeitsteilig vorzugehen und sich die Analysen anschließend vorzustellen. |
 | Durchführen | Die SuS erstellen eine SWOT-Analyse für den Kunden.<br>Die SuS erstellen eine Branchenstrukturanalyse für den Kunden. | | Bearbeitung in Kleingruppen, ggf. arbeitsteilige Bearbeitung der Analysen<br>Es wird am Beispiel der Fitnessbranche gearbeitet - durch den IT-Schwerpunkt sind digitale Geschäftsmodelle und eine Technisierung der Studios zu erwarten. |
 | Kontrollieren / Bewerten | Die SuS stellen bei arbeitsteiligem Handeln die Ergebnisse in ihrer Kleingruppe vor.<br>Die SuS präsentieren das Resultat der SWOT-Analyse in der Klasse.<br>Die SuS präsentieren das Resultat der Branchenstrukturanalyse.<br>Die SuS vergleichen vorgestellte Ergebnisse mit ihren Gruppenergebnissen und stellen Unterschiede heraus. | | Bei den Präsentationen der Analysen wird ein Augenmerk auf die Präsentationstechnik (Abbildung und Navigieren durch die Analysen mithilfe des Präsentationsprogramms) gelegt. |
-| Reflektieren | Die SuS beurteilen das Ergebnis aus dem Vergleich der Analysen unter Berücksichtigung des Kundenauftrags.<br>Die SuS diskutieren über Einflussfaktoren auf die Analysen.| | Es können ggf. Differenzen in den Analysen erkannt werden. Die Subjektivität der Analysen oder auch die Einflüsse der Informationslage der Branche / des Marktes sind für die Reflexion besonders geeignet. |
+| Reflektieren | Die SuS beurteilen das Ergebnis aus dem Vergleich der Analysen unter Berücksichtigung des Kundenauftrags.<br>Die SuS diskutieren über Einflussfaktoren auf die Analysen. | | Es können ggf. Differenzen in den Analysen erkannt werden. Die Subjektivität der Analysen oder auch die Einflüsse der Informationslage der Branche / des Marktes sind für die Reflexion besonders geeignet. |
 
 ## Bearbeitungsverlauf der Lernsituation
 
@@ -62,7 +62,6 @@ Der Kunde "Fitness 365 GmbH" ist überzeugt, sein Unternehmen weiterzuentwickeln
 
 - Klassenarbeit KA|1 (Block 3)
 - Test T|1 (Block 2)
-- Test T|2 (Block 3)
 - Mitarbeit (kontinuierlich)
 
 ### Mögliche Verknüpfungen zu anderen Lernfeldern / Fächern
