@@ -23,7 +23,7 @@ Der Kunde "Fitness 365 GmbH" ist überzeugt, sein Unternehmen weiterzuentwickeln
 
 ### Handlungsergebnis
 
-- **Marktanalyse** bestehend aus einer SWOT-Analyse sowie eine Branchenstrukturanalyse
+- **Marktanalyse** bestehend aus einer SWOT-Analyse sowie eine Branchenstrukturanalyse nach Porter.
 
 <div style="page-break-after: always;"></div>
 
@@ -35,25 +35,23 @@ Der Kunde "Fitness 365 GmbH" ist überzeugt, sein Unternehmen weiterzuentwickeln
 
 | | Handlungskompetenz</br>(Fachkompetenz und Personale Kompetenz) | Inhalte | Sozialform/Methoden |
 | :--- | :--- | :--- | :--- |
-| Informieren bzw. Analysieren | Die SuS erfassen die Problemsituation des Kunden.<br> Die SuS erkennen die Notwendigkeit für die strategische Marktanalyse.<br>Die SuS erkennen interne sowie externe Faktoren als Variablen in der Analyse. | | In Kleingruppen wird eine Problemanalyse anhand einer Projektmappe zum Kunden durchgeführt. |
-| Planen / Entscheiden | Die SuS erarbeiten die Struktur des Business Model Canvas.<br>Die SuS finden Kriterien für die einzelnen Segmente des Business model Canvas. | Business Model Canvas (Stakeholder, Aktivitäten, Ressourcen, Kostenstrukturen, Gewinne, Wertesystem, Kundenbeziehungen, Distributionskanäle, Zielmärkte) | Erst in Einzelarbeit mithilfe des LinkedIn-Learning-Kurses, zwischenzeitlich oder am Ende Abstimmung der Erkenntnisse in Kleingruppen. |
-| Durchführen | Die SuS stellen ein zielgerichtetes Business Model Canvas für zusammen.<br>Die SuS ergänzen ihre Inhalte der Felder um Aspekte der strategischen Neuausrichtung. | | Bearbeitung in Kleingruppen, ggf. arbeitsteilige Bearbeitung der Felder.<br>Einsatz des Tools [draw.io](https://draw.io) mit passender Vorlage zum Business Model Canvas.<br>Es wird am Beispiel des Branchenriesen *McFit* gearbeitet. |
-| Kontrollieren / Bewerten | Die SuS stellen die Ergebnisse ihrer Kleingruppe vor.<br>Die SuS stimmen sich über eine gemeinsame Strategie mit einer anderen Kleingruppe ab.<br>Die SuS vertreten in einer Vorstellung der Ergebnisse eine Gesamtstrategie zweier Kleingruppen. | | Zwei Kleingruppen werden miteinander kombiniert, um die jeweiligen Ergebnisse abzustimmen und in einem gemeinsamen Ergebnis zusammenzuführen. |
-| Reflektieren | Die SuS schätzen das Ergebnis aus der Kombination aus zwei Kleingruppen gegenüber dem Ergebnis ihrer Stammgruppe individuell und anschließend gemeinsam ein. | | Es können ggf. Strategiekonflikte erkannt und die Notwendigkeit eines stimmigen Konzeptes reflektiert werden. |
+| Informieren bzw. Analysieren | Die SuS erfassen die Problemsituation des Kunden.<br>Die SuS erkennen die Notwendigkeit für die strategische Marktanalyse.<br>Die SuS erkennen interne sowie externe Faktoren als Variablen in der Analyse.<br>Die SuS informieren sich zur Methode des Brainstormings. | Methode "Brainstorming" | In Kleingruppen wird ein Brainstorming zu möglichen Geschäftsmodellen des Kunden durchgeführt. |
+| Planen / Entscheiden | Die SuS erarbeiten sich die SWOT-Analyse.<br>Die SuS erarbeiten sich die Branchenstrukturanalyse nach Porter. | SWOT-Analyse, Branchenstrukturanalyse (Porters five) | Erst in Einzelarbeit mithilfe des LinkedIn-Learning-Kurses bzw. ergänzendem Informationsmaterial und anhand von Beispielen aus der IT-Branche, zwischenzeitlich oder am Ende Abstimmung der Erkenntnisse in Kleingruppen. Es wird innerhalb der Kleingruppe angeregt, arbeitsteilig vorzugehen und sich die Analysen anschließend vorzustellen. |
+| Durchführen | Die SuS erstellen eine SWOT-Analyse für den Kunden.<br>Die SuS erstellen eine Branchenstrukturanalyse für den Kunden. | | Bearbeitung in Kleingruppen, ggf. arbeitsteilige Bearbeitung der Analysen<br>Es wird am Beispiel der Fitnessbranche gearbeitet - durch den IT-Schwerpunkt sind digitale Geschäftsmodelle und eine Technisierung der Studios zu erwarten. |
+| Kontrollieren / Bewerten | Die SuS stellen bei arbeitsteiligem Handeln die Ergebnisse in ihrer Kleingruppe vor.<br>Die SuS präsentieren das Resultat der SWOT-Analyse in der Klasse.<br>Die SuS präsentieren das Resultat der Branchenstrukturanalyse.<br>Die SuS vergleichen vorgestellte Ergebnisse mit ihren Gruppenergebnissen und stellen Unterschiede heraus. | | Bei den Präsentationen der Analysen wird ein Augenmerk auf die Präsentationstechnik (Abbildung und Navigieren durch die Analysen mithilfe des Präsentationsprogramms) gelegt. |
+| Reflektieren | Die SuS beurteilen das Ergebnis aus dem Vergleich der Analysen unter Berücksichtigung des Kundenauftrags.<br>Die SuS diskutieren über Einflussfaktoren auf die Analysen.| | Es können ggf. Differenzen in den Analysen erkannt werden. Die Subjektivität der Analysen oder auch die Einflüsse der Informationslage der Branche / des Marktes sind für die Reflexion besonders geeignet. |
 
 ## Bearbeitungsverlauf der Lernsituation
 
 | Verantwortliche / Verantwortlicher | Version | Bearbeitungsdatum |
 | :--- | :---: | :---: |
-| Neumann (NM) | 1.0 | 02.06.2022 |
-| Neumann (NM) | 1.1 | 03.06.2022 |
-| Neumann (NM) | 1.2 | 06.07.2022 |
+| Neumann (NM) | 1.0 | 30.09.2022 |
 
 ### Arbeitsmaterialien / Links
 
 - Moodle-Kurs: [LF12: Unternehmen digital weiterentwickeln
 ](https://moodle.mm-bbs.de/moodle/course/view.php?id=2737)
-- Videomaterial aus dem LinkedIn-Learning Portal
+- Videomaterial aus dem LinkedIn-Learning-Portal
 
 ### Schulische Entscheidungen
 
@@ -64,8 +62,8 @@ Der Kunde "Fitness 365 GmbH" ist überzeugt, sein Unternehmen weiterzuentwickeln
 ### Leistungsnachweise
 
 - Klassenarbeit KA|1 (Block 3)
-- Test T|1 (Block 1)
-- Test T|2 (Block 2)
+- Test T|1 (Block 2)
+- Test T|2 (Block 3)
 - Mitarbeit (kontinuierlich)
 
 ### Mögliche Verknüpfungen zu anderen Lernfeldern / Fächern
