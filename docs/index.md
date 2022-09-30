@@ -1,6 +1,5 @@
 # Curriculum der kaufmännischen IT-Berufe
 
-
 | Lernfeld | Beruf | Bezeichnung laut Rahmenlehrplan | Unterrichtsstunden |
 | :--- | :--- | :--- | :--- |
 | LF01 | KIT | Das Unternehmen und die eigene Rolle im Betrieb beschreiben | 40 |
