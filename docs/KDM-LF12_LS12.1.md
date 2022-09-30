@@ -8,8 +8,7 @@
 
 ### Kompetenzformulierung
 
-**"Die Schülerinnen und Schüler verfügen über die Kompetenz, im Team Geschäftsmodell und Geschäftsprozesse des Unternehmens zu analysieren und Vorschläge für 
-eine marktgerechte digitale Weiterentwicklung zu erarbeiten."**
+**"Die Schülerinnen und Schüler verfügen über die Kompetenz, im Team Geschäftsmodell und Geschäftsprozesse des Unternehmens zu analysieren und Vorschläge für eine marktgerechte digitale Weiterentwicklung zu erarbeiten."**
 
 "Die Schülerinnen und Schüler informieren sich über Geschäftsmodell und Vertriebswege des Unternehmens. Mithilfe der identifizierten Geschäftsprozesse beschreiben sie die Prozesslandschaft des Unternehmens. Sie ermitteln die Erwartungen der betrieblichen Prozessteilnehmer und der externen Marktteilnehmer. Sie wenden Methoden zur Informationsbeschaffung und Marktanalyse an und beschreiben vorhandenes Marktpotential."
 
@@ -21,7 +20,7 @@ eine marktgerechte digitale Weiterentwicklung zu erarbeiten."**
 
 Die ChangeIT GmbH möchte das Angebot für seine Kunden zukünftig umfassender gestalten und hat eine kleine Unternehmensberatung als Abteilung eingekauft. Sie nehmen die Rolle zwischen Informationstechnologie und der Gestaltung von Geschäftsmodellen sowie -prozessen in einer neu geschaffenen Stelle ein.
 
-Für Ihren ersten Auftrag in der neuen Position setzen Sie sich genauer mit der Analyse des Kunden "Fitness 365 GmbH & Co. KG" und seiner Geschäftsfelder auseinander. 
+Für Ihren ersten Auftrag in der neuen Position setzen Sie sich genauer mit der Analyse des Kunden "Fitness 365 GmbH & Co. KG" und seiner Geschäftsfelder auseinander.
 
 ### Handlungsergebnis
 
