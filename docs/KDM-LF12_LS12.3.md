@@ -12,7 +12,7 @@
 
 "Die Schülerinnen und Schüler planen auftragsbezogen die Reorganisation bestehender Prozesse, die Ausgestaltung neuer Prozesse sowie die digitale Weiterentwicklung des  Geschäftsmodells. Dazu visualisieren sie den Ist-Zustand und erfassen Änderungs- und Optimierungsbedarf, unter besonderer Beachtung der Daten. Sie nehmen Referenzprozesse sowie Beispiele für digitale Geschäftsmodelle zur Hilfe. Sie richten ihre Lösung konsequent am Nutzen der internen und externen Kunden aus und beachten Datenhoheit sowie Schutzrechte.
 
-Sie modellieren den Sollzustand, wenden Werkzeuge der Prozessanalyse an und überprüfen ihre Ideen auf Wirtschaftlichkeit und Machbarkeit. Dazu vergleichen sie Digitalisierungsgrad, Kosten und Wertschöpfung des Ist- mit dem angestrebten Sollzustand. Sie erarbeiten Vorschläge zur technischen Realisierung des angestrebten Sollzustandes und präsentieren ihr Ergebnis den Auftraggebern. "
+Sie modellieren den Sollzustand, wenden Werkzeuge der Prozessanalyse an und überprüfen ihre Ideen auf Wirtschaftlichkeit und Machbarkeit. Dazu vergleichen sie Digitalisierungsgrad, Kosten und Wertschöpfung des Ist- mit dem angestrebten Sollzustand. Sie erarbeiten Vorschläge zur technischen Realisierung des angestrebten Sollzustandes und präsentieren ihr Ergebnis den Auftraggebern."
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
@@ -71,5 +71,6 @@ Der Kunde "Fitness 365 GmbH" hat sich für zwei Schritte entschieden. Einerseits
 
 - Lernfeld 4: Datenschutz
 - Lernfeld 9: Darstellung und Modellierung von Prozessen
+- Lernfeld ??: Prozesskostenrechnung // TODO
 
 !!!info "Lizenz<br><br><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Das KIT Curriculum</span> vom <a xmlns:cc="http://creativecommons.org/ns#" href="https://herr-nm.github.io/KIT-Curriculum/" property="cc:attributionName" rel="cc:attributionURL">Team KIT der MMBbS</a> ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Namensnennung - Nicht-kommerziell - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz</a>. Fragen, Hinweise etc. an neumann@mmbbs.de."

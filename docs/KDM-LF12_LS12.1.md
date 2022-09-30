@@ -30,7 +30,7 @@ Für Ihren ersten Auftrag in der neuen Position setzen Sie sich genauer mit der 
 
 ### Vorausgesetzte Fähigkeiten und Kenntnisse
 
-- keine
+- keine // TODO
 
 ### Handlungskompetenz
 
