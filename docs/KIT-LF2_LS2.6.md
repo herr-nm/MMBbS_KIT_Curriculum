@@ -59,7 +59,7 @@ Für den langjährigen Kunden soll eine neu zusammengestellte Abteilung mit pass
 
 ### Leistungsnachweise
 
-- Klassenarbeit KA|1 (Block 3)
+- Klassenarbeit KA|1 (Block 4)
 - Test T|1 (Block 2)
 - Mitarbeit (kontinuierlich)
 
