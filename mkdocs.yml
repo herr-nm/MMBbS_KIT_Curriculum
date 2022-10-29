@@ -21,8 +21,12 @@ repo_url: https://github.com/herr-nm/KIT-Curriculum
 
 nav:
     - Übersicht: index.md
+    - KIT LF 1: KIT-LF01.md
+    - KIT LF 2: KIT-LF02.md
     - KIT LS 2.6: KIT-LF2_LS2.6.md
     - KIT LS 2.7: KIT-LF2_LS2.7.md
+    - KIT LF 3: KIT-LF03.md
+    - KDM LF 12: KDM-LF12.md
     - KDM LS 12.1: KDM-LF12_LS12.1.md
     - KDM LS 12.2: KDM-LF12_LS12.2.md
     - KDM LS 12.3: KDM-LF12_LS12.3.md
