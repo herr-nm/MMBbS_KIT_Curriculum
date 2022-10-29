@@ -1,5 +1,7 @@
 # Lernfeld 3 - Clients in Netzwerke einbinden
 
+## Beschreibung gemäß Rahmenlehrplan
+
 **Die Schülerinnen und Schüler verfügen über die Kompetenz, eine Netzwerkinfrastruktur zu analysieren sowie Clients zu integrieren.**
 
 Die Schülerinnen und Schüler **erfassen** im Kundengespräch die Anforderungen an die Integration von Clients (*Soft- und Hardware*) in eine bestehende Netzwerkinfrastruktur und leiten Leistungskriterien ab.
