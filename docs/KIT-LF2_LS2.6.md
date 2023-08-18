@@ -4,7 +4,7 @@
 
 | Lernfeld | Bildungsgang | Ausbildungsjahr |
 | :--- | :--- | :---: |
-| LF 2:</br>Unternehmen digital weiterentwickeln | Kaufleute für Digitalisierungsmanagement (KDM) &<br> Kaufleute für IT-System-Management (KSM) | 1 |
+| LF 2:</br>Arbeitsplätze nach Kundenwunsch ausstatten | Kaufleute für Digitalisierungsmanagement (KDM) &<br> Kaufleute für IT-System-Management (KSM) | 1 |
 
 ### Kompetenzformulierung
 
@@ -12,7 +12,7 @@
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
-| Rahmenlehrplan für Kaufleute für Digitalisierungsmanagement & Kaufleute für IT-System-Management in der Fassung vom 13.12.2019, S. 11 | LS 2.6: IT-Systeme unterscheiden | 18 Unterrichtsstunden |
+| Rahmenlehrplan für Kaufleute für Digitalisierungsmanagement & Kaufleute für IT-System-Management in der Fassung vom 13.12.2019, S. 11 | LS 2.6: IT-Systeme unterscheiden | 9 Unterrichtsstunden |
 
 ### Handlungssituation
 
@@ -44,11 +44,12 @@ Für den langjährigen Kunden soll eine neu zusammengestellte Abteilung mit pass
 | :--- | :---: | :---: |
 | Neumann (NM) | 1.0 | 26.02.2021 |
 | Neumann (NM) | 1.1 | 03.10.2022 |
+| Neumann (NM) | 1.2 | 18.08.2023 |
 
 ### Arbeitsmaterialien / Links
 
-- Moodle-Kurs: [LF12: Unternehmen digital weiterentwickeln
-](https://moodle.mm-bbs.de/moodle/course/view.php?id=2733)
+- Moodle-Kurs: [LF2: Arbeitsplätze nach Kundenwunsch ausstatten
+](https://moodle.mm-bbs.de/moodle/course/view.php?id=3005)
 
 ### Schulische Entscheidungen
 
@@ -60,7 +61,7 @@ Für den langjährigen Kunden soll eine neu zusammengestellte Abteilung mit pass
 ### Leistungsnachweise
 
 - Klassenarbeit KA|1 (Block 4)
-- Test T|1 (Block 2)
+- Tests
 - Mitarbeit (kontinuierlich)
 
 ### Mögliche Verknüpfungen zu anderen Lernfeldern / Fächern
