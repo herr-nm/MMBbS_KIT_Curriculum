@@ -14,7 +14,7 @@
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
-| Rahmenlehrplan für Kaufleute für IT-System-Management in der Fassung vom 13.12.2019, S. 22 | 13.5: Netzwerke in einer Büroumgebung einrichten | 12 Unterrichtsstunden |
+| Rahmenlehrplan für Kaufleute für IT-System-Management in der Fassung vom 13.12.2019, S. 22 | 13.5: Netzwerke in einer Büroumgebung einrichten | 18 Unterrichtsstunden |
 
 ### Handlungssituation
 
