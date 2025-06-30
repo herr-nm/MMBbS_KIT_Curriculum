@@ -18,7 +18,7 @@ Sie entwerfen und implementieren Datenstrukturen [...] zur Umsetzung des Kundena
 
 ### Handlungssituation
 
-Die Autowerkstatt AutoFix bietet Reparaturen, Wartungen und Inspektionen für PKW an. Kunden vereinbaren Termine, bringen ihr Fahrzeug vorbei und erhalten nach Abschluss der Arbeiten eine Rechnung. In der Werkstatt arbeiten mehrere Mechaniker, die auf verschiedene Fahrzeugtypen spezialisiert sind. Durch die zunehmende Digitalisierung der gesamten Mobilitätsbranche sowie einem steigenden Anteil von Elektromobilität und der damit verbundenen neuen Diagnosegeräte nimmt der Transformationsdruck auf die klassischen Autowerkstätten zu.
+Die Autowerkstatt AutoFix GmbH bietet Reparaturen, Wartungen und Inspektionen für PKW an. Kunden vereinbaren Termine, bringen ihr Fahrzeug vorbei und erhalten nach Abschluss der Arbeiten eine Rechnung. In der Werkstatt arbeiten mehrere Mechaniker, die auf verschiedene Fahrzeugtypen spezialisiert sind. Durch die zunehmende Digitalisierung der gesamten Mobilitätsbranche sowie einem steigenden Anteil von Elektromobilität und der damit verbundenen neuen Diagnosegeräte nimmt der Transformationsdruck auf die klassischen Autowerkstätten zu.
 
 Die ChangeIT GmbH wird als langjähriger Partner in der IT-System-Beschaffung und Wartung der IT-Systeme durch die Werkstatt beauftragt, ein maßgeschneidertes digitales Dienstleistungsangebot für die Endkunden zu realisieren. Nach der Beschaffung moderner Endgeräte in dem Werkstattbüro und der Aktualisierung eines in der Cloud betriebenen Servers soll nun eine Anwendung entstehen, die die Prozesse der AutoFix abbildet.
 
