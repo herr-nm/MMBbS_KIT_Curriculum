@@ -14,7 +14,7 @@ Sie entwerfen und implementieren Datenstrukturen [...] zur Umsetzung des Kundena
 
 | Curricularer Bezug | Titel der Lernsituation (Kurzfassung) | Geplanter Zeitrichtwert |
 | :--- | :--- | :---: |
-| Rahmenlehrplan für Kaufleute für Digitalisierungsmanagement & Kaufleute für IT-System-Management in der Fassung vom 13.12.2019, S. 11 | LS 7.6: Datenbanken modellieren | 6 Unterrichtsstunden |
+| Rahmenlehrplan für Kaufleute für Digitalisierungsmanagement & Kaufleute für IT-System-Management in der Fassung vom 13.12.2019, S. 11 | LS 7.6: Datenbanken modellieren und anlegen | 8 Unterrichtsstunden |
 
 ### Handlungssituation
 
@@ -22,11 +22,11 @@ Die Autowerkstatt AutoFix GmbH bietet Reparaturen, Wartungen und Inspektionen f�
 
 Die ChangeIT GmbH wird als langjähriger Partner in der IT-System-Beschaffung und Wartung der IT-Systeme durch die Werkstatt beauftragt, ein maßgeschneidertes digitales Dienstleistungsangebot für die Endkunden zu realisieren. Nach der Beschaffung moderner Endgeräte in dem Werkstattbüro und der Aktualisierung eines in der Cloud betriebenen Servers soll nun eine Anwendung entstehen, die die Prozesse der AutoFix abbildet.
 
-Sie arbeiten in dem Projekt als Datenbankentwickler in enger Abstimmung mit den weitern Softwareentwicklern zusammen.
+Sie arbeiten in dem Projekt als Datenbankentwickler in enger Abstimmung mit den weiteren Softwareentwicklern zusammen.
 
 ### Handlungsergebnis
 
-- Überführung eines unsystematischen, redundaten und fehlerhaften Datenbestands über ein ER-Diagramm in ein **relationales Datenbankschema** der 3. Normalform.
+- Anlage einer **Datenbank** mit enthaltenen Daten in der 3. Normalform auf Basis der Modellierungen.
 
 <div style="page-break-after: always;"></div>
 
@@ -38,7 +38,7 @@ Sie arbeiten in dem Projekt als Datenbankentwickler in enger Abstimmung mit den 
 
 | | Handlungskompetenz</br>(Fachkompetenz und Personale Kompetenz) | Inhalte | Sozialform/Methoden |
 | :--- | :--- | :--- | :--- |
-| Informieren bzw. Analysieren | ➡️ Die SuS analysieren den Kundenauftrag.<br>➡️ Die SuS informieren sich über die Vorteile  digitaler Datenbanken.<br>➡️ Die SuS informieren sich über Grundbegriffe zu Datenbanken.<br> ➡️ Die SuS informieren sich über die Elemente eines Entity-Relationship-Model (ERM).<br> ➡️ Die SuS informieren sich über den Prozess der Normalisierung (1.-3. NF).<br>➡️ Die SuS informieren sich über den Aufbau des relationalen Datenbankschemas. <br> ➡️ Die SuS informieren sich über die MySQL-Datentypen. | ✅ Vorteile von digitalen Datenbanken <br> ✅ Grundbegriffe zu Datenbanken (Referenzielle Integrität, Anomalien, Redundanz, Konsistenz, Atomarität, ... ) <br> ✅ ERM: Entitäten, Beziehungen, Attribute, Beziehungsentitäten, Primärschlüssel, Fremdschlüssel, Kardinaliäten <br> ✅ Normalformen (1.-3. NF)<br> ✅ Relationales Datenbankschema<br>✅ Datentypen in MySQL| ☑️ Informationsmaterialien zur zielgerichteten Recherche werden vorausgewählt.<br> ☑️ Präsenzunterricht: Arbeit in Kleingruppen<br>☑️ Distanzunterricht: Bearbeitung in Kleingruppen unter hierfür eingerichteten Kanälen in MS Teams<br>☑️ Die Gruppen können asynchron im Gruppentempo die einzelnen Kompetenzen erarbeiten. |
+| Informieren bzw. Analysieren | ➡️ Die SuS analysieren den Kundenauftrag.<br>➡️ Die SuS informieren sich über die Vorteile  digitaler Datenbanken.<br>➡️ Die SuS informieren sich über Grundbegriffe zu Datenbanken.<br> ➡️ Die SuS informieren sich über die Elemente eines Entity-Relationship-Model (ERM).<br> ➡️ Die SuS informieren sich über den Prozess der Normalisierung (1.-3. NF).<br>➡️ Die SuS informieren sich über den Aufbau des relationalen Datenbankschemas. <br> ➡️ Die SuS informieren sich über die MySQL-Datentypen.<br> ➡️ Die SuS informieren sich über die MySQL-Befehle zur Datenbank- und Tabellenanlage. <br> ➡️ Die SuS informieren sich über das Einfügen und Importieren von Datenbeständen in Tabellen. | ✅ Vorteile von digitalen Datenbanken <br> ✅ Grundbegriffe zu Datenbanken (Referenzielle Integrität, Anomalien, Redundanz, Konsistenz, Atomarität, ... ) <br> ✅ ERM: Entitäten, Beziehungen, Attribute, Beziehungsentitäten, Primärschlüssel, Fremdschlüssel, Kardinaliäten <br> ✅ Normalformen (1.-3. NF)<br> ✅ Relationales Datenbankschema <br> ✅ Datentypen in MySQL | ☑️ Informationsmaterialien zur zielgerichteten Recherche werden vorausgewählt.<br> ☑️ Präsenzunterricht: Arbeit in Kleingruppen<br>☑️ Distanzunterricht: Bearbeitung in Kleingruppen unter hierfür eingerichteten Kanälen in MS Teams<br>☑️ Die Gruppen können asynchron im Gruppentempo die einzelnen Kompetenzen erarbeiten. |
 | Planen / Entscheiden | ➡️ Die SuS identifizieren Probleme und Brüche in der aktuellen Datenhaltung.<br> ➡️ Die SuS strukturieren die vorliegenden Sachverhalte und Daten als Planungsgrundlage für die zu schaffende Datenbankstruktur. | s.o. | ☑️ Präsenzunterricht: Arbeit in Kleingruppen<br>☑️ Distanzunterricht: Bearbeitung in Kleingruppen unter hierfür eingerichteten Kanälen in MS Teams<br>☑️ Die Gruppen können asynchron im Gruppentempo die einzelnen Kompetenzen erarbeiten. |
 | Durchführen | ➡️ Die SuS erläutern dem Kunden unter Verwendung von Fachbegriffen die Vorteile einer digitalen Datenhaltung in Form einer Datenbank. <br> ➡️ Die SuS führen den Prozess der Normalisierung bis zur 3. NF mit den zur Verfügung stehenden Daten durch.<br> ➡️ Die SuS modellieren eine Datenbank als Resultat aus dem Normalisierungsprozess in Form eines ER-Diagramms.<br> ➡️ Die SuS entwickeln aus dem ER-Diagramm ein relationales Datenbankschema unter Auflösung aller N:M-Beziehungen. | s.o. | ☑️ Präsenzunterricht: Arbeit in Kleingruppen<br>☑️ Distanzunterricht: Bearbeitung in Kleingruppen unter hierfür eingerichteten Kanälen in MS Teams<br>☑️ Die Gruppen können asynchron im Gruppentempo die einzelnen Kompetenzen erarbeiten. |
 | Kontrollieren / Bewerten | ➡️ Die SuS kontrollieren die als ERM geplanten Datenbanken anhand einer Checkliste.<br> ➡️ Die SuS kontrollieren die als relationales Datenbankschema geplanten Datenbanken anhand einer Checkliste. <br> ➡️ Die SuS kontrollieren die schrittweise Überführung des Datenbestands im Rahmen der Normalisierung anhand einer Checkliste. | s.o. | ☑️ Präsenzunterricht: Arbeit in Kleingruppen<br>☑️ Distanzunterricht: Bearbeitung in Kleingruppen unter hierfür eingerichteten Kanälen in MS Teams<br>☑️ Die Gruppen können asynchron im Gruppentempo die einzelnen Kompetenzen erarbeiten. |
@@ -57,14 +57,13 @@ Sie arbeiten in dem Projekt als Datenbankentwickler in enger Abstimmung mit den 
 ### Schulische Entscheidungen
 
 - Inhaltlich eng mit dem Projekt im LF7 und zur Softwareentwicklung mit Python abgestimmt.
-- Nicht-relationale Datenbanken folgen im LF11
+- Nicht-relationale Datenbanken folgen im LF11.
 
 <div style="page-break-after: always;"></div>
 
 ### Leistungsnachweise
 
 - Klassenarbeit im Rahmen des KIT GoPilot am Ende des 3. Blocks
-- Test am Ende des 4. Blocks
 - Mitarbeit (kontinuierlich)
 
 ### Mögliche Verknüpfungen zu anderen Lernfeldern / Fächern
